@@ -73,7 +73,7 @@
 
 ## Compliance & API etiquette
 
-- Uses a unique **User-Agent**: `MC-Mod-Updater/VERSION (this page; support email)`
+- Uses a unique **User-Agent**: `MC-Mod-Updater/VERSION (this page)`
 - Respects rate limits with throttle + backoff
 - Downloads via official Modrinth file URLs only (no scraping, no rehosting)
 - Honors project licenses; we don’t bundle third-party jars
@@ -82,6 +82,6 @@
 
 ## Changelog
 
-### 0.1.0
+### 1.0.0
 - First prototype release: scanning, resolution, downloading, basic UI.
 
