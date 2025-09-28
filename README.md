@@ -8,7 +8,7 @@
 
 ## Download
 
-- **Windows installer (.exe)**: [Grab the latest release here](https://github.com/YOURNAME/mc-mod-updater-home/releases)  
+- **Windows installer (.exe)**: [Grab the latest release here](https://github.com/TGoodrichHydro/mc-mod-updater-home/releases)  
 - Portable zip (no install): same page.
 
 > If you don’t see a release yet, I’m still packaging this build. Check back soon or open an issue.
